@@ -1,1 +1,1 @@
-new branch
+it's simple to create a new branch
